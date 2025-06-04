@@ -71,8 +71,7 @@ src/
               BooksRepository.java         # 도서 엔티티용 JPA 리포지토리
 
             service/                       # 비즈니스 로직 계층
-              BookService.java             # 인터페이스
-              BooksService.java            # 추가 서비스 계층
+              BooksService.java            # 인터페이스
               BooksServicelmpl.java        # 도서 서비스 구현체
               OpenAIService.java           # OpenAI 이미지 생성 비즈니스 로직
 
